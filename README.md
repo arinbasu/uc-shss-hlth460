@@ -78,8 +78,8 @@ Address:
 [https://canterbury.zoom.us/j/95065997242 ](https://canterbury.zoom.us/j/95065997242)
 
 ## Reading lists by week
-
-Week 1: Getting started 
+[Access the reading list here](readinglist.md)
+## Week 1: Getting started 
 - A Study in Scarlet
 - Why most research findings are false
 - How to read a paper
