@@ -75,7 +75,7 @@ Step by step instructions:
 
 For 2021, the class will be held online over Zoom every week on Friday 2-4 PM NZ time.
 Address:
-[https://canterbury.zoom.us/j/95065997242 ](https://canterbury.zoom.us/j/95065997242)
+[Zoom Link for the class ](https://learn.canterbury.ac.nz/mod/zoom/view.php?id=1740957)
 
 ## Reading lists by week
 [Access the reading list here](https://arinbasu.github.io/uc-shss-hlth460/readinglist)
