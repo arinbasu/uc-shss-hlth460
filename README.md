@@ -84,7 +84,11 @@ Address:
 - Why most research findings are false
 - How to read a paper
 
-Week 2: How to critically appraise a single paper using STROBE
+## Week 2: How to critically appraise a single paper using STROBE
+- [STROBE checklist itself latest version, PDF](https://www.strobe-statement.org/fileadmin/Strobe/uploads/checklists/STROBE_checklist_v4_combined.pdf)
+- [Read the accompanying article FIRST]()
+- [READ the expplanatory article NEXT]()
+- [PRACTICE on this article](https://www.strobe-statement.org/fileadmin/Strobe/uploads/checklists/STROBE_checklist_v4_combined.pdf)
 
 
 Week 3: How to describe and read charts and graphs
