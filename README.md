@@ -87,8 +87,8 @@ Address:
 ## Week 2: How to critically appraise a single paper using STROBE
 - [STROBE checklist itself latest version, PDF](https://www.strobe-statement.org/fileadmin/Strobe/uploads/checklists/STROBE_checklist_v4_combined.pdf)
 - [Read the accompanying article FIRST](week_2/strobepaper.pdf)
-- [READ the expplanatory article NEXT](week_2/strobe_explanatory_article.pdf)
-- [PRACTICE on this article](https://www.strobe-statement.org/fileadmin/Strobe/uploads/checklists/STROBE_checklist_v4_combined.pdf)
+- [READ the explanatory article NEXT](week_2/strobe_explanatory_article.pdf)
+- [PRACTICE on this article]()
 
 
 Week 3: How to describe and read charts and graphs
