@@ -88,7 +88,7 @@ Address:
 - [STROBE checklist itself latest version, PDF](https://www.strobe-statement.org/fileadmin/Strobe/uploads/checklists/STROBE_checklist_v4_combined.pdf)
 - [Read the accompanying article FIRST](week_2/strobepaper.pdf)
 - [READ the explanatory article NEXT](week_2/strobe_explanatory_article.pdf)
-- [PRACTICE on this article]()
+- [PRACTICE on this article](week_2/practice_article.pdf)
 
 
 Week 3: How to describe and read charts and graphs
