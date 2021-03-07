@@ -91,7 +91,11 @@ Address:
 - [PRACTICE on this article](week_2/practice_article.pdf)
 
 
-Week 3: How to describe and read charts and graphs
+## Week 3: How to describe and read charts and graphs
+- [Read ]()
+- [Read ]()
+- [Optional, practice ](https://rpubs.com/arinbasu/ggplot_tutorial)
+- [Read this article and discuss how information was presented]()
 
 Week 4: Measurements in Epidemiology and health sciences
 - Measurements of descriptions of diseases
