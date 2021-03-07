@@ -92,10 +92,10 @@ Address:
 
 
 ## Week 3: How to describe and read charts and graphs
-- [Read ]()
-- [Read ]()
-- [Optional, practice ](https://rpubs.com/arinbasu/ggplot_tutorial)
-- [Read this article and discuss how information was presented]()
+- [Read the Midway article ](midway.pdf)
+- [Read the Rodenbeck article about best practices and guidelines about graphics ](rodenbeck.pdf)
+- [Optional, practice with this tutorial to learn how to work with ggplot() ](https://rpubs.com/arinbasu/ggplot_tutorial)
+- [Read this article and discuss how information was presented](li_et_al.pdf)
 
 Week 4: Measurements in Epidemiology and health sciences
 - Measurements of descriptions of diseases
