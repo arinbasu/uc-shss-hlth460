@@ -109,7 +109,7 @@ Assigned readings for this week:
 
 The document to practice what you learned
 
-- [SF-36 questionnaire, PDF version](mos_core_36item_surve.pdf)
+- [SF-36 questionnaire, PDF version](week_4/mos_core_36item_surve.pdf)
 
 **Questions when we meet on 19th March, Friday 2-3 PM NZ Time**
 
