@@ -103,13 +103,13 @@ Address:
 
 Assigned readings for this week:
 
-[Breslow, 2006 paper](week_4/breslow_2006.pdf)
-[Hatch, 1993 paper](week_4/hatch_1993.pdf)
-[Story, 2019 paper](week_4/story_2019.pdf)
+- [Breslow, 2006 paper](week_4/breslow_2006.pdf)
+- [Hatch, 1993 paper](week_4/hatch_1993.pdf)
+- [Story, 2019 paper](week_4/story_2019.pdf)
 
 The document to practice what you learned
 
-[SF-36 questionnaire, PDF version](mos_core_36item_surve.pdf)
+- [SF-36 questionnaire, PDF version](mos_core_36item_surve.pdf)
 
 **Questions when we meet on 19th March, Friday 2-3 PM NZ Time**
 
