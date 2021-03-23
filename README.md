@@ -119,7 +119,10 @@ The document to practice what you learned
 - How would you design this questionnaire?
 - I will talk about questionnaire validation - validity/reliability
 
-Week 5: Introduction to cause and causality
+## Week 5: Introduction to cause and causality
+Read the following article:
+- [The tale wagged by the DAG: broadening the scope of causal inference and explanation for epidemiology](week_5/krieger_smith.pdf) 
+- In the class, we will discuss causal inference and causality, so read this article, summarise and come prepared to discuss
 
 Week 6: Advanced and graphical models of cause and causal inference
 
