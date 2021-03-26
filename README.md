@@ -124,7 +124,10 @@ Read the following article:
 - [The tale wagged by the DAG: broadening the scope of causal inference and explanation for epidemiology](week_5/krieger_smith.pdf) 
 - In the class, we will discuss causal inference and causality, so read this article, summarise and come prepared to discuss
 
-Week 6: Advanced and graphical models of cause and causal inference
+## Week 6: Advanced and graphical models of cause and causal inference
+- Read [Rohrer, 2018 article](https://journals.sagepub.com/doi/pdf/10.1177/2515245917745629) to learn about directed acyclic graphs
+- Learn to use [Dagitty](http://dagitty.net/)
+- Use the [dagitty cheat sheet](http://dagitty.net/learn/primer/Dagitty-Cheat-Sheet.pdf) to draw diagrams
 
 Week 7: Study designs in health 
 
