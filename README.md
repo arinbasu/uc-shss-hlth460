@@ -133,7 +133,40 @@ Week 7: Study designs in health
 
 Week 8: Appraise the quality of evidence using GRADE tools
 
-Week 9: How to design your own study: sample size and power
+## Week 9: How to design your own study: sample size and power
+
+This week we will learn about sample size and power calculation.
+Here are a few things to read and prepare:
+
+## Homework:
+
+* Before coming to the class, please watch the following video:
+[Normal Distribution Video](https://www.youtube.com/watch?v=hgtMWR3TFnY)
+It will take about 30 minutes
+* Then watch the following video (about 20 minutes): [Hypothesis Testing](https://www.youtube.com/watch?v=VK-rnA3-41c)
+
+After watching these two videos, you will have a good idea of 
+
+* Z distribution
+* Null and alternative hypotheses
+
+We will discuss some of these things in tomorrow's class
+
+
+## Bring to the class
+* A problem or a research idea that you want to discuss
+* Prepare to discuss a research plan around the idea
+
+## Browse the following website and optional reading 
+* [Openepi](http://wwww.openepi.com/Menu/OE_Menu.htm)
+## Read (for later):
+* [A sample size primer by Hickey et al](https://academic.oup.com/ejcts/article/54/1/4/4994996)
+* [A second article on sample size primer by Schulz etal](https://www.sciencedirect.com/science/article/pii/S0140673605610343?casa_token=xZ7pF8DfJUwAAAAA:ZGjjjfkC4d8w3-SxHMpbEHoFe6Idgj_HtApShd6wUv3Wnrn-pn-JmM_wxLevqzgO7Wf2fZgSSw)
+
+See you tomorrow at our usual Zoom location at 2 PM
+Meanwhile, I will also discuss the second assignment
+
+
 
 Week 10: How to design your own study: data analysis and writing
 
